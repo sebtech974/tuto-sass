@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+
+
+
+
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &_title {
+        font-family: 'Edu TAS Beginner', cursive;
+        span {
+            color: rgb(6, 152, 57);
+        }
+    }
+}
